@@ -6,3 +6,5 @@ Compress logging directories into backups in Bash.
 Clone this project and look at the source files:
 - `rotate.sh`
 - `helper.sh`
+
+*Initialized by totrrescartel workspace automation.*
